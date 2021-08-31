@@ -1,4 +1,4 @@
-# sales-trend
+
 # SALES TREND
 In this project we have to find sales trend with respect to 
 year and months.
